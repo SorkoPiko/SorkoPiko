@@ -1,16 +1,17 @@
-### Hi there 👋
+# 👋 Hello!
+I'm SorkoPiko and I make YouTube videos and play video games 🎮.
 
-<!--
-**SorkoPiko/SorkoPiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The games I play are:
+- 🟩 Minecraft
+- ⚔ Zelda
+- 🌲 Terraria
+- 👾 and others!
 
-Here are some ideas to get you started:
+I also code sometimes, mainly in Python 🐍.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Discord
+![Server Badge](https://img.shields.io/discord/1109614971266011238?label=SorkoPiko)
+
+My Discord Server (SorkoPiko): [https://discord.gg/w2X9zvM85g](https://discord.gg/w2X9zvM85g)
+
+Me (SorkoPiko): [Discord Profile](https://discord.com/users/609544328737456149)
