@@ -1,13 +1,16 @@
 # 👋 Hello!
-I'm SorkoPiko and I make YouTube videos and play video games 🎮.
+I'm SorkoPiko and I code random stuff for random games.
 
 The games I play are:
-- 🟩 Minecraft
+- 🟩 Geometry Dash
 - ⚔ Zelda
 - 🌲 Terraria
-- 👾 and others!
+- 👾 Minecraft
+- and others!
 
-I also code sometimes, mainly in Python 🐍.
+I also stream sometimes [here](https://twitch.tv/sorkopiko).
+
+**Check out my [site](https://sorkopiko.com)!**
 
 ## Discord
 ![Server Badge](https://img.shields.io/discord/1109614971266011238?label=SorkoPiko)
