@@ -21,3 +21,5 @@ I also stream sometimes [here](https://twitch.tv/sorkopiko).
 My Discord Server (SorkoPiko): [https://discord.gg/w2X9zvM85g](https://discord.gg/w2X9zvM85g)
 
 Me (SorkoPiko): [Discord Profile](https://discord.com/users/609544328737456149)
+
+[![](https://visitcount.itsvg.in/api?id=SorkoPiko&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
