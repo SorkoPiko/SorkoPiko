@@ -1,25 +1,23 @@
 # About me
+
 [![wakatime](https://wakatime.com/badge/user/16aa5e7e-a470-4b0c-9ed4-25e656d300a4.svg)](https://wakatime.com/@16aa5e7e-a470-4b0c-9ed4-25e656d300a4)
 
-I'm SorkoPiko and I code random stuff for random games.
+Hi! I make stuff.
 
-I've made plugins/mods for:
-- [Geometry Dash](https://geode-sdk.org/mods?developer=sorkopiko)
-- [Minecraft](https://github.com/SorkoPiko/GodlyzPlugin)
+## Work
+- [Geometry Dash Mods](https://geode-sdk.org/mods?developer=sorkopiko) (150k+ downloads)
+- [SendDB Bot](https://senddb.sorko.dev) (500+ servers)
+- [Minecraft Mods](https://modrinth.com/user/SorkoPiko) (500+ downloads)
 
-My top languages are:
-- Python (8+ years)
-- C++ (<1 year)
+and more at [sorkopiko.com](https://www.sorkopiko.com)
 
-I also stream sometimes [here](https://twitch.tv/sorkopiko).
+Backend Java Developer @ [Hyping Studio](https://github.com/HypingStudio)
 
-**Check out my [site](https://sorkopiko.com)!**
+## Skills
+Proficient in Java, Rust, C++ and Python.
 
-## Discord
-![Server Badge](https://img.shields.io/discord/1109614971266011238?label=SorkoPiko)
+Most skilled in backend API & data flow design.
 
-My Discord Server (SorkoPiko): [https://discord.gg/w2X9zvM85g](https://discord.gg/w2X9zvM85g)
-
-Me (SorkoPiko): [Discord Profile](https://discord.com/users/609544328737456149)
-
-[![](https://visitcount.itsvg.in/api?id=SorkoPiko&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+## Contact
+For all inquires, add me on Discord (`sorkopiko`, preferred)
+or shoot me an email (`me@sorko.dev`)
