@@ -16,7 +16,7 @@ Backend Java Developer @ [Hyping Studio](https://github.com/HypingStudio)
 ## Skills
 Proficient in Java, Rust, C++ and Python.
 
-Most skilled in backend API & data flow design.
+I most enjoy backend API & data flow/serialisation design.
 
 ## Contact
 For all inquires, add me on Discord (`sorkopiko`, preferred)
