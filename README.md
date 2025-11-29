@@ -7,7 +7,7 @@ Hi! I make stuff.
 ## Work
 - [Geometry Dash Mods](https://geode-sdk.org/mods?developer=sorkopiko) (150k+ downloads)
 - [SendDB Bot](https://senddb.sorko.dev) (500+ servers)
-- [Minecraft Mods](https://modrinth.com/user/SorkoPiko) (500+ downloads)
+- [Minecraft Mods](https://modrinth.com/user/SorkoPiko) (1,000+ downloads)
 
 and more at [sorkopiko.com](https://www.sorkopiko.com)
 
